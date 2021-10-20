@@ -16,7 +16,7 @@
 Install the npm packages
 
 ```sh
-yarn install
+yarn
 ```
 
 Install the `node-dev`
